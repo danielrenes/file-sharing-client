@@ -132,3 +132,5 @@ pip-selfcheck.json
 
 # End of https://www.gitignore.io/api/linux,python,virtualenv
 
+# ignore config
+config
